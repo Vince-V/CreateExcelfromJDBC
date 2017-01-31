@@ -14,7 +14,7 @@ public class DBMethods {
 	
 	private final String URL = "jdbc:mysql://localhost/mysql";
 	private final String USERNAME = "root";
-	private final String PASSWORD = "vince6000";
+	private final String PASSWORD = "*****";
 	private Connection conn = null;
 	private Statement statement = null;
 	private ResultSet getOwner = null;
